@@ -11,6 +11,6 @@ Link del repositorio:
 https://github.com/Murillo1741/Programacion-Orientada-a-Objetos
 
 Link del video: 
-https://youtu.be/5RoepcI_PIo
+https://youtu.be/V4FYGpSK0Ck 
 
 ¡Gracias por su atención!
